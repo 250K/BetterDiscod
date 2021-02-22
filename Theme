@@ -1,0 +1,43 @@
+/**
+ * @name Theme Foret
+ * @author puckzxz#2080
+ * @version 2.2
+ * @description An easily customizable and automatically updating theme
+ * @invite FdZhbjY
+ * @source https://github.com/puckzxz/NotAnotherAnimeTheme
+*/
+
+@import url('https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+  --background-image: url('https://cdn.discordapp.com/attachments/785130510590017576/813212106056663121/42b71febceb584b928241fe20a3a2176.jpg');
+  --friends-icon: url('https://www.podfeet.com/blog/wp-content/uploads/2018/02/discord-logo.png');
+  --friends-icon-zoom: 125%;
+  --friends-icon-position: center center;
+  --main-color: rgb(67,181,129);
+  --main-transparency: rgba(0, 0, 0, 0.8);
+  --hover-list-bg-color: rgba(0,0,0,0.15);
+  --border-lines-color: rgba(0,0,0,0.1);
+  --scroll-bar-color: rgba(255,255,255,.15);
+  --selected-text-voice-color: #f6f6f7;
+  --channel-hover-text-color: rgba(255, 255, 255, 0.75);
+  --unread-text-color: 67,181,129;
+  --user-popup-background: rgba(0,0,0,0.8);
+  --font-size: '15';
+  --unread-server-animation: rainbow;
+  --server-icon-size: 43px;
+  --server-icon-spacing: 8px;
+  --server-container-padding: 10px;
+  --rs-small-spacing: 0px;
+  --rs-large-spacing: 2px;
+  --rs-width: 1.5px;
+  --rs-avatar-shape: 49%;
+  --rs-online-color: #007a42;
+  --rs-idle-color: #8a7c00;
+  --rs-dnd-color: #8b0000;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #33008b;
+  --rs-invisible-color: #747f8d;
+}
