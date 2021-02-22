@@ -1,0 +1,2 @@
+# BetterDiscod
+Theme Discord Better
